@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/manage-money-react-1-website/static/css/main.752aaf60.chunk.css",
+    "main.js": "/manage-money-react-1-website/static/js/main.16a036e6.chunk.js",
+    "main.js.map": "/manage-money-react-1-website/static/js/main.16a036e6.chunk.js.map",
+    "runtime-main.js": "/manage-money-react-1-website/static/js/runtime-main.d463d316.js",
+    "runtime-main.js.map": "/manage-money-react-1-website/static/js/runtime-main.d463d316.js.map",
+    "static/js/2.e74544af.chunk.js": "/manage-money-react-1-website/static/js/2.e74544af.chunk.js",
+    "static/js/2.e74544af.chunk.js.map": "/manage-money-react-1-website/static/js/2.e74544af.chunk.js.map",
+    "index.html": "/manage-money-react-1-website/index.html",
+    "static/css/main.752aaf60.chunk.css.map": "/manage-money-react-1-website/static/css/main.752aaf60.chunk.css.map",
+    "static/js/2.e74544af.chunk.js.LICENSE.txt": "/manage-money-react-1-website/static/js/2.e74544af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d463d316.js",
+    "static/js/2.e74544af.chunk.js",
+    "static/css/main.752aaf60.chunk.css",
+    "static/js/main.16a036e6.chunk.js"
+  ]
+}
